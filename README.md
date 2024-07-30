@@ -12,7 +12,7 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 ###
 
-<p align="left">- 🔭 Intern at  @ForLEARN.<br>- 🌱 I am learning PHP with LARAVEL and PYTHON for Data Science.<br>- ⚡  Majoring Computer Science student<br>- 👨‍💻 All my projects can be found in my "Repositories".<br>- 📫 To contact me, email heliopiedade29@gmail.com.</p>
+<p align="left">- 🔭 Intern at  @ForLEARN.<br>- 🌱 Learning PHP with LARAVEL and PYTHON for Data Science.<br>- ⚡  Majoring Computer Science student<br>- 👨‍💻 All my projects can be found in my "Repositories".<br>- 📫 To contact me, email heliopiedade29@gmail.com.</p>
 
 ###
 
