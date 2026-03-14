@@ -3,17 +3,10 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 ###
 
 <h3 align="left">About Me</h3>
-
+<p align="left">-⚡ Computer Science Major.<br>-🌱 Improving JAVA because of WUNDU.com and PYTHON for Data Science.<br>- 👨‍💻 All my projects can be found in my "Repositories".<br></p>
 ###
-
-<p align="left">- 🌱 Improving JAVA because of WUNDU.com and PYTHON for Data Science.<br>- ⚡ Computer Science Major.<br>- 👨‍💻 All my projects can be found in my "Repositories".<br></p>
-
-###
-
 <h3 align="left">Tools</h3>
-
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="7" />
@@ -33,7 +26,6 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 </div>
 
 ###
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Helio-Mariel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-###
