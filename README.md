@@ -4,7 +4,7 @@ Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 ###
 
 <h3 align="left">About Me</h3>
-<p align="left">-⚡ Computer Science Major.<br>-👨‍💻 Former Web Development enthusiast.<br> -🌱 Migrating to the DATA fiel d<br> </p>
+<p align="left">-⚡ Computer Science Major.<br>-👨‍💻 Former Web Development enthusiast.<br> -🌱 Migrating to the DATA field <br> </p>
 
 ###
 
