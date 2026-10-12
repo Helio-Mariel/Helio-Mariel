@@ -6,7 +6,7 @@
 const helio = {
   name:       "Hélio Mariel",
   role:       "Data Analyst",
-  focus:      ["Excel", "SQL", "Python", "PowerBI],
+  focus:      ["Excel", "SQL", "Python", "PowerBI"],
   contact:    "heliopiedade29@gmail.com",
   funFact:    "I pratice 5 sports"
 };
